@@ -14,7 +14,7 @@ const Navbar = () => {
       <div>
         <img
           src={Logo}
-          alt="Logo Image"
+          alt="Logo"
           style={{ width: "50px" }}
           className="cursor-pointer"
         />
