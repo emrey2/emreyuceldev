@@ -22,12 +22,12 @@ const Work = () => {
                 Awesome Game
               </span>
               <div className="pt-8 text-center">
-                <a>
+                <a href="/">
                   <button className="text-center px-4 py-3 m-2 border-2 border-dashed font-bold border-white">
                     Demo
                   </button>
                 </a>
-                <a>
+                <a href="/">
                   <button className="text-center px-4 py-3 m-2 border-2 border-dashed font-bold border-white">
                     More Info
                   </button>
@@ -44,12 +44,12 @@ const Work = () => {
                 Awesome Game
               </span>
               <div className="pt-8 text-center">
-                <a>
+                <a href="/">
                   <button className="text-center px-4 py-3 m-2 border-2 border-dashed font-bold border-white">
                     Demo
                   </button>
                 </a>
-                <a>
+                <a href="/">
                   <button className="text-center px-4 py-3 m-2 border-2 border-dashed font-bold border-white">
                     More Info
                   </button>
@@ -66,12 +66,12 @@ const Work = () => {
                 Awesome Game
               </span>
               <div className="pt-8 text-center">
-                <a>
+                <a href="/">
                   <button className="text-center px-4 py-3 m-2 border-2 border-dashed font-bold border-white">
                     Demo
                   </button>
                 </a>
-                <a>
+                <a href="/">
                   <button className="text-center px-4 py-3 m-2 border-2 border-dashed font-bold border-white">
                     More Info
                   </button>
@@ -88,12 +88,12 @@ const Work = () => {
                 Awesome Game
               </span>
               <div className="pt-8 text-center">
-                <a>
+                <a href="/">
                   <button className="text-center px-4 py-3 m-2 border-2 border-dashed font-bold border-white">
                     Demo
                   </button>
                 </a>
-                <a>
+                <a href="/">
                   <button className="text-center px-4 py-3 m-2 border-2 border-dashed font-bold border-white">
                     More Info
                   </button>
